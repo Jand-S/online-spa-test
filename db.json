@@ -1,0 +1,76 @@
+{
+	"novels-saikai": [
+		{
+			"name": "Risou no Himo Seikatsu",
+			"acronym": "RHS",
+			"totalChapters": 4,
+			"rate": 5.0,
+			"avaliation": 1,
+			"original_language": "Japanese",
+			"author": "Watanabe Tsunehiko",
+			"state": "Andamento",
+			"poster": "https://s3-alpha.saikai.com.br/series/risou-no-himo-seikatsu.webp",
+			"chapters": [
+				{
+					"chapter": 0,
+					"name": "Seus dois dias livres consecutivos em meio ano num mundo diferente",
+					"link": "https://saikaiscan.com.br/ler/series/risou-no-himo-seikatsu/35320/capitulo-0"
+				},
+				{
+					"chapter": 0.1,
+					"name": "Uma reunião privada com a Rainha",
+					"link": "https://saikaiscan.com.br/ler/series/risou-no-himo-seikatsu/35453/capitulo-01"
+				},
+				{
+					"chapter": 1,
+					"name": "Regresso Temporário",
+					"link": "https://saikaiscan.com.br/ler/series/risou-no-himo-seikatsu/35886/capitulo-1"
+				},
+				{
+					"chapter": 2,
+					"name": "Preparativos para a transferência",
+					"link": "https://saikaiscan.com.br/ler/series/risou-no-himo-seikatsu/36742/capitulo-2"
+				}
+			]
+		},
+		{
+			"name": "The First Ascended After the Founding of New China",
+			"acronym": "TFAAFNC",
+			"totalChapters": 4,
+			"rate": 4.0,
+			"avaliation": 2,
+			"original_language": "Mandarim",
+			"author": "Furong Jiejie",
+			"state": "Concluido",
+			"poster": "https://s3-alpha.saikai.com.br/series/the-first-ascended-after-the-founding-of-new-china.jpg",
+			"chapters": [
+				{
+					"chapter": 1,
+					"name": "Conflito",
+					"link": "https://saikaiscan.com.br/ler/series/the-first-ascended-after-the-founding-of-new-china/30071/capitulo-01"
+
+				},
+				{
+					"chapter": 2,
+					"name": "Primeira parte",
+					"link": "https://saikaiscan.com.br/ler/series/the-first-ascended-after-the-founding-of-new-china/30072/capitulo-02"
+
+				},
+				{
+					"chapter": 3,
+					"name": "Segunda Parte",
+					"link": "https://saikaiscan.com.br/ler/series/the-first-ascended-after-the-founding-of-new-china/30073/capitulo-03"
+
+				},
+				{
+					"chapter": 4,
+					"name": "Posfácio",
+					"link": "https://saikaiscan.com.br/ler/series/the-first-ascended-after-the-founding-of-new-china/30074/capitulo-04"
+
+				},
+
+			]
+		},
+	],
+	
+}
