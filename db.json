@@ -66,5 +66,40 @@
             }
          ]
       }
+   ],
+   "novels-mania":[
+      {
+         "name":"Risou no Himo Seikatsu",
+         "acronym":"RHS",
+         "totalChapters":4,
+         "rate":5.0,
+         "avaliation":1,
+         "original_language":"Japanese",
+         "author":"Watanabe Tsunehiko",
+         "state":"Andamento",
+         "poster":"https://s3-alpha.saikai.com.br/series/risou-no-himo-seikatsu.webp",
+         "chapters":[
+            {
+               "chapter":0,
+               "name":"Seus dois dias livres consecutivos em meio ano num mundo diferente",
+               "link":"https://saikaiscan.com.br/ler/series/risou-no-himo-seikatsu/35320/capitulo-0"
+            },
+            {
+               "chapter":0.1,
+               "name":"Uma reunião privada com a Rainha",
+               "link":"https://saikaiscan.com.br/ler/series/risou-no-himo-seikatsu/35453/capitulo-01"
+            },
+            {
+               "chapter":1,
+               "name":"Regresso Temporário",
+               "link":"https://saikaiscan.com.br/ler/series/risou-no-himo-seikatsu/35886/capitulo-1"
+            },
+            {
+               "chapter":2,
+               "name":"Preparativos para a transferência",
+               "link":"https://saikaiscan.com.br/ler/series/risou-no-himo-seikatsu/36742/capitulo-2"
+            }
+         ]
+      }
    ]
 }
