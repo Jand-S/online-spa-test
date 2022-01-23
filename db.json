@@ -69,35 +69,38 @@
    ],
    "novels-mania":[
       {
-         "name":"Risou no Himo Seikatsu",
-         "acronym":"RHS",
-         "totalChapters":4,
-         "rate":5.0,
-         "avaliation":1,
-         "original_language":"Japanese",
-         "author":"Watanabe Tsunehiko",
-         "state":"Andamento",
-         "poster":"https://s3-alpha.saikai.com.br/series/risou-no-himo-seikatsu.webp",
+         "name":"O Herdeiro de Alícia",
+         "acronym":"OHDA",
+         "totalChapters":5,
+         "original_language":"Brasileira",
+         "author":"Axuul",
+         "state":"Ativo",
+         "poster":"https://us-east-1.linodeobjects.com/novelmania/uploads/novel/cover/196/capa_ohda.jpg",
          "chapters":[
             {
-               "chapter":0,
-               "name":"Seus dois dias livres consecutivos em meio ano num mundo diferente",
-               "link":"https://saikaiscan.com.br/ler/series/risou-no-himo-seikatsu/35320/capitulo-0"
-            },
-            {
-               "chapter":0.1,
-               "name":"Uma reunião privada com a Rainha",
-               "link":"https://saikaiscan.com.br/ler/series/risou-no-himo-seikatsu/35453/capitulo-01"
-            },
-            {
                "chapter":1,
-               "name":"Regresso Temporário",
-               "link":"https://saikaiscan.com.br/ler/series/risou-no-himo-seikatsu/35886/capitulo-1"
+               "name":"A Silhueta",
+               "link":"https://novelmania.com.br/novels/o-herdeiro-de-alicia/capitulos/vu-capitulo-1"
             },
             {
                "chapter":2,
-               "name":"Preparativos para a transferência",
-               "link":"https://saikaiscan.com.br/ler/series/risou-no-himo-seikatsu/36742/capitulo-2"
+               "name":"A Rotina",
+               "link":"https://novelmania.com.br/novels/o-herdeiro-de-alicia/capitulos/vu-capitulo-2"
+            },
+            {
+               "chapter":3,
+               "name":"A Visita",
+               "link":"https://novelmania.com.br/novels/o-herdeiro-de-alicia/capitulos/vu-capitulo-3"
+            },
+            {
+               "chapter":4,
+               "name":"A Relíquia",
+               "link":"https://novelmania.com.br/novels/o-herdeiro-de-alicia/capitulos/volume-1-capitulo-4"
+            },
+            {
+               "chapter":5,
+               "name":"O Reecontro",
+               "link":"https://novelmania.com.br/novels/o-herdeiro-de-alicia/capitulos/volume-1-capitulo-5"
             }
          ]
       }
