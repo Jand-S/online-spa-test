@@ -1,5 +1,5 @@
 {
-   "novels-saikai":[
+   "saikai":[
       {
          "name":"Risou no Himo Seikatsu",
          "acronym":"RHS",
@@ -67,7 +67,7 @@
          ]
       }
    ],
-   "novels-mania":[
+   "mania":[
       {
          "name":"O Herdeiro de Alícia",
          "acronym":"OHDA",
